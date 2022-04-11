@@ -1,10 +1,10 @@
 # Zoran Jankov
 
-## System Administrator and Deployment Engineer
+## System Engineer
 
 ![System and Deployment Engineer](https://www.rccd.edu/admin/ed_services/it/PublishingImages/INFO_TECH_HERO.jpg)
 
-Experienced system administrator with accomplished projects in ICT system engineering. Skillful and persistent in solving network, system, software, and hardware problems. Experienced expert on all aspects of Windows Server administration. Expert in automating system processes using PowerShell and Batch scripts. An information technology enthusiast, who quickly accepts new trends and implements them in his work. Experience with network equipment administration, Linux operating system administration and Java programming in the Eclipse IDE.
+Experienced system engineer with accomplished projects in ICT system engineering. Skillful and persistent in solving network, system, software, and hardware problems. Experienced expert on all aspects of Windows Server administration. Expert in automating system processes using PowerShell and Batch scripts. An information technology enthusiast, who quickly accepts new trends and implements them in his work. Experience with network equipment administration, Linux operating system administration and Java programming in the Eclipse IDE.
 
 Skills: **System Administration / Windows Server / Azure / PowerShell / Java**
 
