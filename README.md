@@ -16,12 +16,10 @@ Skills: **System Engineering / Windows Server / Active Directory / Azure AD / Po
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoran-Jankov)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoran-Jankov&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoran-Jankov&show_icons=true&count_private=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zoran-Jankov)  
+![GitHub metrics](https://metrics.lecoq.io/Zoran-Jankov)
 
-![GitHub metrics](https://metrics.lecoq.io/Zoran-Jankov)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Zoran-Jankov)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Zoran-Jankov)  
-
-![Profile views](https://gpvc.arturio.dev/Zoran-Jankov)  
+![Profile views](https://gpvc.arturio.dev/Zoran-Jankov)
