@@ -4,7 +4,7 @@
 
 ![System and Deployment Engineer](https://www.rccd.edu/admin/ed_services/it/PublishingImages/INFO_TECH_HERO.jpg)
 
-Experienced system engineer with accomplished projects in ICT system engineering. Skillful and persistent in solving network, system, software, and hardware problems. Experienced expert on all aspects of Windows Server administration. Expert in automating system processes using PowerShell and Batch scripts. An information technology enthusiast, who quickly accepts new trends and implements them in his work. Experience with network equipment administration, Linux operating system administration and Java programming in the Eclipse IDE.
+Passionate about automation and experienced in Windows infrastructure, I thrive on implementing and deploying new systems to drive operational efficiency. With extensive expertise in Active Directory administration, I excel in designing and optimizing complex directory structures and access control mechanisms. My proficiency extends to Azure AD, VMware, and Hyper-V, enabling me to build and manage robust virtualized environments. While my Linux knowledge is not at a senior level, I possess the skills to effectively navigate and administer Linux systems. Committed to staying at the forefront of technology, I am constantly exploring innovative solutions and leveraging my skills to deliver seamless and secure IT infrastructures. I have a strong enthusiasm for learning, especially in the realm of cloud technologies.
 
 Skills: **System Engineering / Windows Server / Active Directory / Azure AD / PowerShell / DNS / DHCP / Windows Deployment Services / Microsoft Deployment Toolkit**
 
